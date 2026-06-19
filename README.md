@@ -1,1 +1,1 @@
-# Fundamentals-of-machine-learning-and-datalogy
+# Основы машинного обучения и даталогии 
